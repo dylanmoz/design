@@ -1,3 +1,4 @@
-# My Awesome Book
+# design-notes
 
-This file serves as your book's preface, a great place to describe your book's content and ideas.
+A collection of notes about design.
+
