@@ -1,0 +1,16 @@
+{
+  "name": "design",
+  "version": "1.0.0",
+  "description": "Notes on design",
+  "main": "index.js",
+  "repository": "https://github.com/dylanmoz/design.git",
+  "author": "dylan.mozlowski@gmail.com",
+  "license": "MIT",
+  "scripts": {
+    "build": "gitbook build . ./docs",
+    "serve": "gitbook serve"
+  },
+  "dependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
